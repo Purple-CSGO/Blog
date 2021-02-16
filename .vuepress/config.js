@@ -87,6 +87,7 @@ module.exports = {
     "author": "Purp1e",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
+    // "subSidebar": 'auto', //在所有页面中启用自动生成子侧边栏，原 sidebar 仍然兼容
     "startYear": "2021"
   },
   "markdown": {
