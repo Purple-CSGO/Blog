@@ -5,6 +5,6 @@
 
 
 
-<h2 align="center">vdoing-demo-blog</h2>
+<h1 align="center">Purp1e的博客 - Vuepress - Vdoing主题</h1>
 
 
