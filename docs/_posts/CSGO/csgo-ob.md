@@ -1,11 +1,17 @@
 ---
-title: 'CSGO观察者OB平滑路径指令制作教程'
+title: CSGO观察者OB平滑路径指令制作教程
 date: 2020-02-15 18:33:49
-tags: [CSGO,CFG]
+tags: 
+  - CSGO
+  - CFG
 published: true
 hideInList: false
 feature: /post-images/csgo-ob.jfif
 isTop: false
+permalink: /pages/30a89f/
+sidebar: auto
+categories: 
+  - CSGO
 ---
 # 说明
 

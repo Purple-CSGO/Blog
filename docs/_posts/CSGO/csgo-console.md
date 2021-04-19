@@ -1,11 +1,16 @@
 ---
-title: 'CSGO控制台与常用指令'
+title: CSGO控制台与常用指令
 date: 2019-05-22 20:48:38
-tags: [CSGO]
+tags: 
+  - CSGO
 published: true
 hideInList: false
 feature: /post-images/csgo-console.jfif
 isTop: false
+permalink: /pages/1a09c8/
+sidebar: auto
+categories: 
+  - CSGO
 ---
 > 这篇文章我会详细的介绍CSGO控制台、指令系统、设置方面的知识，有点晦涩，希望各位能在阅读的过程中时不时昏睡过去( ͡° ͜ʖ ͡°)。
 <!--more-->

@@ -1,11 +1,17 @@
 ---
-title: '跑的最快的CSGO高帧率素材的录制方式'
+title: 跑的最快的CSGO高帧率素材的录制方式
 date: 2020-05-24 14:02:33
-tags: [CSGO,HLAE]
+tags: 
+  - CSGO
+  - HLAE
 published: true
 hideInList: false
-feature: 
+feature: null
 isTop: false
+permalink: /pages/faee3f/
+sidebar: auto
+categories: 
+  - CSGO
 ---
 > 一般为了做变速或使用帧混合/重采样得到运动模糊效果，会录制高帧率素材
 

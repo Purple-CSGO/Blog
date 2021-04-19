@@ -1,3 +1,18 @@
+---
+title: Go+Wails学习笔记（三）Go与Js数据交互
+date: 2020-07-30 22:12:56
+tags: 
+  - GO
+  - Wails
+published: true
+hideInList: false
+feature: /post-images/Go-Wails-003.jpg
+isTop: false
+permalink: /pages/75af77/
+sidebar: auto
+categories: 
+  - Go
+---
 # 前言
 
 下面会介绍Go+Wails最核心的、最重要的部分——前后端数据交互，即后端的Golang和前端的JavaScript如何交换数据。

@@ -1,11 +1,17 @@
 ---
-title: 'Config|CFG设置详细解读和启动项推荐'
+title: Config|CFG设置详细解读和启动项推荐
 date: 2019-05-23 20:28:56
-tags: [CSGO,CFG]
+tags: 
+  - CSGO
+  - CFG
 published: true
 hideInList: false
 feature: /post-images/csgo-config.jfif
 isTop: false
+permalink: /pages/b5766c/
+sidebar: auto
+categories: 
+  - CSGO
 ---
 > 这篇文章会详细的介绍所有与CFG和启动项相关的知识，希望可以加深各位对CSGO设置的理解。
 <!--more-->

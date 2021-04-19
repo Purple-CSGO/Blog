@@ -1,11 +1,16 @@
 ---
-title: 'Markdown基本语法教程和编辑器选择'
+title: Markdown基本语法教程和编辑器选择
 date: 2019-05-12 11:13:32
-tags: [Markdown]
+tags: 
+  - Markdown
 published: true
 hideInList: false
 feature: /post-images/markdown.jfif
 isTop: false
+permalink: /pages/936d2e/
+sidebar: auto
+categories: 
+  - 随笔
 ---
 >初学Markdown，简单总结一下语法和编辑器的选择。
 <!--more-->

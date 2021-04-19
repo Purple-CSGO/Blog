@@ -1,11 +1,14 @@
 ---
-title: 'Hexo+yilia主题博客搭建配置(二)：设置Github和SSH与部署Hexo'
+title: Hexo+yilia主题博客搭建配置(二)：设置Github和SSH与部署Hexo
 date: 2019-05-12 11:05:44
-tags: [Hexo,博客]
+tags: 
+  - Hexo
+  - 博客
 published: true
-hideInList: false
-feature: /post-images/hexo-01.jfif
-isTop: false
+permalink: /pages/e63172/
+sidebar: auto
+categories: 
+  - 博客
 ---
 >上篇讲述了Hexo的配置方法和一些常用指令，这篇继续说明如何把Hexo部署到网络上，设置Github和SSH秘钥。
 <!--more-->

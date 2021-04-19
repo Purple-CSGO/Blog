@@ -1,11 +1,19 @@
 ---
-title: '人工智能与机器学习初探'
+title: 人工智能与机器学习初探
 date: 2020-03-29 22:44:08
-tags: [AI,机器学习,人工智能,深度学习]
+tags: 
+  - AI
+  - 机器学习
+  - 人工智能
+  - 深度学习
 published: true
 hideInList: false
 feature: /post-images/AI-ML-start.jfif
 isTop: false
+permalink: /pages/a3d9f5/
+sidebar: auto
+categories: 
+  - 人工智能
 ---
 # 前言
 

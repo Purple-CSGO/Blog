@@ -1,11 +1,20 @@
 ---
-title: 'HLAE搭配FFMPEG录制教程'
+title: HLAE搭配FFMPEG录制教程
 date: 2019-06-11 14:34:24
-tags: [CSGO,HLAE,FFMPEG,CFG,视频创作]
+tags: 
+  - CSGO
+  - HLAE
+  - FFMPEG
+  - CFG
+  - 视频创作
 published: true
 hideInList: false
 feature: /post-images/hlae-ffmpeg.png
 isTop: false
+permalink: /pages/00d111/
+sidebar: auto
+categories: 
+  - HLAE
 ---
 > 2019/5/23 HLAE更新支持了FFMPEG，官方给出的说明并不是很详细，这里会详细地介绍如何为HLAE安装FFMPEG和录制视频，尤其在录制高帧素材时可以省去很多空间。
 <!--more-->

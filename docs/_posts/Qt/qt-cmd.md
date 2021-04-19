@@ -1,11 +1,16 @@
 ---
-title: 'Qt调用控制台CMD命令总结(C++)'
+title: Qt调用控制台CMD命令总结(C++)
 date: 2020-01-18 22:52:46
-tags: [Qt]
+tags: 
+  - Qt
 published: true
 hideInList: false
 feature: /post-images/qt-cmd.png
 isTop: false
+permalink: /pages/eeb7bc/
+sidebar: auto
+categories: 
+  - Qt
 ---
 # 头文件包含
 

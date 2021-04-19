@@ -1,11 +1,18 @@
 ---
-title: 'PicGo+Typora+码云Gitee图床联动'
+title: PicGo+Typora+码云Gitee图床联动
 date: 2020-03-08 12:21:59
-tags: [博客,Typora,Gitee]
+tags: 
+  - 博客
+  - Typora
+  - Gitee
 published: true
 hideInList: false
 feature: /post-images/picgo-typora-gitee.jpg
 isTop: false
+permalink: /pages/216c79/
+sidebar: auto
+categories: 
+  - 随笔
 ---
 # 前言
 

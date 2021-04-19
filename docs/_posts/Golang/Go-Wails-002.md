@@ -1,11 +1,17 @@
 ---
-title: 'Go+Wails学习笔记（二）一键编译运行脚本'
+title: Go+Wails学习笔记（二）一键编译运行脚本
 date: 2020-07-12 18:59:22
-tags: [GO,Wails]
+tags: 
+  - GO
+  - Wails
 published: true
 hideInList: false
 feature: /post-images/Go-Wails-002.png
 isTop: false
+permalink: /pages/6b702e/
+sidebar: auto
+categories: 
+  - Go
 ---
 # 前言
 

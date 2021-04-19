@@ -1,11 +1,17 @@
 ---
-title: 'Go+Wails学习笔记（一）环境搭建与配置'
+title: Go+Wails学习笔记（一）环境搭建与配置
 date: 2020-07-12 18:35:18
-tags: [GO,Wails]
+tags: 
+  - GO
+  - Wails
 published: true
 hideInList: false
 feature: /post-images/Go-Wails-001.jpg
 isTop: false
+permalink: /pages/ac8a61/
+sidebar: auto
+categories: 
+  - Go
 ---
 # 前言
 

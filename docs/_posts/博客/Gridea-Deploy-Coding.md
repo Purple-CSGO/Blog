@@ -1,11 +1,14 @@
 ---
-title: 'Gridea博客免费部署Coding全过程详解(更换主题-Gitalk-SEO)'
+title: Gridea博客免费部署Coding全过程详解(更换主题-Gitalk-SEO)
 date: 2020-02-10 10:05:05
-tags: [博客,Gridea]
+tags: 
+  - 博客
+  - Gridea
 published: true
-hideInList: false
-feature: /post-images/Gridea-Deploy-Coding.png
-isTop: true
+permalink: /pages/a9f3be/
+sidebar: auto
+categories: 
+  - 博客
 ---
 # 前言
 

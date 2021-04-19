@@ -1,11 +1,16 @@
 ---
-title: 'CSGO控制台进阶指令'
+title: CSGO控制台进阶指令
 date: 2019-05-23 19:37:28
-tags: [CSGO]
+tags: 
+  - CSGO
 published: true
 hideInList: false
 feature: /post-images/csgo-console2.jfif
 isTop: false
+permalink: /pages/e7afd3/
+sidebar: auto
+categories: 
+  - CSGO
 ---
 > 上次的文章讲解了控制台的用法和基础的常用指令，这次介绍几个进阶的指令及用法，希望能够有效提升诸位的睡眠质量( ͡° ͜ʖ ͡°)。
 

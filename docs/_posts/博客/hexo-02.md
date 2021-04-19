@@ -1,11 +1,14 @@
 ---
-title: 'Hexo+yilia主题博客搭建配置(一)：简单配置Hexo和常用指令介绍'
+title: Hexo+yilia主题博客搭建配置(一)：简单配置Hexo和常用指令介绍
 date: 2019-05-12 10:53:44
-tags: [Hexo,博客]
+tags: 
+  - Hexo
+  - 博客
 published: true
-hideInList: false
-feature: /post-images/hexo-02.jfif
-isTop: false
+permalink: /pages/bdbdd8/
+sidebar: auto
+categories: 
+  - 博客
 ---
 >花了将近一天半的时间使用同学推荐的Hexo框架搭建了Blog，使用的是yilia主题，下面我会分篇讲述一些细节和我踩过的坑。搭建过程部分参考了b站[Codesheep的视频](https://www.bilibili.com/video/av44544186)。
 <!-- more -->
