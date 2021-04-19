@@ -178,7 +178,6 @@ module.exports = {
           el: '#valine-vuepress-comment',
           AppID: 'AovtdDVf8HgeFKQhD0VYYqiq-gzGzoHsz',
           AppKey: 'kQLsVLUG61h3rQEekyAE1zT4',
-          path: '<%- frontmatter.commentid || frontmatter.permalink %>',
           placeholder: '你很懂哦~ 不写点什么？',
         }
       }
