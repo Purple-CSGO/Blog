@@ -1,0 +1,1 @@
+ffprobe -v quiet  -print_format json -show_format C:\Users\Purp1e\Desktop\测试.mp4
