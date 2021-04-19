@@ -173,13 +173,28 @@ module.exports = {
     [
       'vuepress-plugin-comment', // 评论
       {
-        choosen: 'valine',
+        choosen: 'gitalk',
         options: {
-          el: '#valine-vuepress-comment',
-          AppID: 'AovtdDVf8HgeFKQhD0VYYqiq-gzGzoHsz',
-          AppKey: 'kQLsVLUG61h3rQEekyAE1zT4',
-          placeholder: '你很懂哦~ 不写点什么？',
-        }
+          clientID: '3f04eb1a28913589a98f',
+          clientSecret: '0af31db4d4dc6fa43f254241875ee98c3a6e0028',
+          repo: 'blog-gitalk-comment', // GitHub 仓库
+          owner: 'Purple-CSGO', // GitHub仓库所有者
+          admin: ['Purple-CSGO'], // 对仓库有写权限的人
+          // distractionFreeMode: true,
+          pagerDirection: 'last', // 'first'正序 | 'last'倒序
+          id: '<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>', //  页面的唯一标识,长度不能超过50
+          title: '「评论」<%- frontmatter.title %>', // GitHub issue 的标题
+          labels: ['Gitalk', 'Comment'], // GitHub issue 的标签
+          body:
+              '页面：<%- window.location.origin + (frontmatter.to.path || window.location.pathname) %>', // GitHub issue 的内容
+        },
+        // choosen: 'valine',
+        // options: {
+        //   el: '#valine-vuepress-comment',
+        //   AppID: 'AovtdDVf8HgeFKQhD0VYYqiq-gzGzoHsz',
+        //   AppKey: 'kQLsVLUG61h3rQEekyAE1zT4',
+        //   placeholder: '你很懂哦~ 不写点什么？',
+        // }
       }
     ],
 
