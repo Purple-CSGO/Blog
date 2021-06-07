@@ -1,3 +1,13 @@
+---
+title: element table 表格内容居中
+date: 2021-04-19 14:29:49
+permalink: /pages/6a2e2b/
+sidebar: auto
+categories:
+  - 随笔
+tags:
+  - 
+---
 ```
 <el-table
     :data="tableData"
