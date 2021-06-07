@@ -18,7 +18,7 @@ module.exports = {
   themeConfig: { // 主题配置
     nav,
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
-    logo: '/badge/短信.svg', // 导航栏logo  /img/unstack.png
+    logo: '/img/短信.svg', // 导航栏logo  /img/unstack.png
     repo: 'Purple-CSGO', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: '上次更新', // 更新的时间，及前缀文字   string | boolean (取值为git提交时间)
@@ -38,25 +38,16 @@ module.exports = {
     ], // body背景大图，默认无。 单张图片 String || 多张图片 Array, 多张图片时每隔15秒换一张。
     // titleBadge: false, // 文章标题前的图标是否显示，默认true
     titleBadgeIcons: [ // 文章标题前图标的地址，默认主题内置图标
-      '/badge/升级.svg',
-      '/badge/卡包.svg',
-      '/badge/商城.svg',
-      '/badge/地图.svg',
-      '/badge/天气.svg',
-      '/badge/录音.svg',
-      '/badge/日历.svg',
-      '/badge/游戏.svg',
-      '/badge/照明.svg',
-      '/badge/照片.svg',
-      '/badge/电台.svg',
-      '/badge/电话.svg',
-      '/badge/相机.svg',
-      '/badge/视频中心.svg',
+      '/badge/书本.svg',
+      '/badge/便签.svg',
+      '/badge/奖章.svg',
+      '/badge/打印机.svg',
+      '/badge/教具.svg',
+      '/badge/时间.svg',
       '/badge/计算器.svg',
-      '/badge/设置.svg',
-      '/badge/郵件.svg',
-      '/badge/闹钟.svg',
-      '/badge/音乐.svg',
+      '/badge/讨论.svg',
+      '/badge/课表.svg',
+      '/badge/黑板.svg',
     ],
 
     sidebar: 'structuring', // 侧边栏  'structuring' | { mode: 'structuring', collapsable: Boolean} | 'auto' | 自定义    温馨提示：目录页数据依赖于结构化的侧边栏数据，如果你不设置为'structuring',将无法使用目录页
