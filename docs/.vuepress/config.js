@@ -8,6 +8,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/img/favicon.jpg' }], //favicons，资源放在public文件夹
     ['meta', { name: 'keywords', content: '视频制作,CSGO,集锦,技术博客,前端,vue,js,css,html,c,c++,go,golang,wails,github,b站,bilibili,视频编码'}],
     ['meta', { name: 'theme-color', content: '#11a8cd'}], // 移动浏览器主题颜色
+    ['script', { type: 'text/javascript', src: '/assets/js/push.js' }],  //百度seo推送
   ],
   markdown: {
     lineNumbers: true // 代码行号
