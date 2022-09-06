@@ -28,7 +28,7 @@ OBS Studio 已经登录 Steam 商店，同样免费。如果担心下载和更�
 
 ## 初识OBS
 
-![](https://fastly.jsdelivr.net/gh/Purple-CSGO/img-bed/img/OBS主界面.png)
+![OBS主界面](https://fastly.jsdelivr.net/gh/Purple-CSGO/img-bed/img/OBS主界面.png)
 
 启动 OBS，忽略首次引导，主界面如图所示。可以看到界面分为以下几个部分：
 
@@ -51,7 +51,7 @@ OBS Studio 已经登录 Steam 商店，同样免费。如果担心下载和更�
 
 `应用程序音频捕获` 是当前正在测试的功能，可以获取特定程序的声音，特别适合分离游戏/语音音源，方便后期处理，后面会详细介绍。
 
-![OBS来源](https://fastly.jsdelivr.net/gh/Purple-CSGO/img-bed/img/OBS来源.png)
+<img title="OBS来源" src="https://fastly.jsdelivr.net/gh/Purple-CSGO/img-bed/img/OBS来源.png" alt="OBS来源" width="25%" data-align="center">
 
 ### 混音器面板
 
@@ -123,7 +123,7 @@ OBS Studio 已经登录 Steam 商店，同样免费。如果担心下载和更�
 
 显卡编码非常适合游戏场景，我们可以把推流和录像都设置成显卡编码或者一个CPU编码、一个显卡编码平衡负载。
 
-![](https://fastly.jsdelivr.net/gh/Purple-CSGO/img-bed/img/OBS串流界面.png)
+![OBS串流界面](https://fastly.jsdelivr.net/gh/Purple-CSGO/img-bed/img/OBS串流界面.png)
 
 ##### x264 编码器
 
