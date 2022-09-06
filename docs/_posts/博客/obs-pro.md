@@ -19,8 +19,11 @@ categories:
 ## 安装
 
 官网：<https://obsproject.com>
+
 项目：<https://github.com/obsproject/obs-studio>
+
 论坛：<https://obsproject.com/forum>
+
 资源：<https://obsproject.com/forum/resources>
 
 > 资源页包含各种插件、脚本、主题和工具。
