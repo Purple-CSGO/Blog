@@ -4,7 +4,7 @@ date: 2022-09-7 02:42:44
 tags: 
   - OBS
 published: true
-permalink: /pages/0bdf9d/
+permalink: /pages/obs-pro/
 sidebar: auto
 categories: 
   - 博客
