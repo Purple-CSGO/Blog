@@ -32,33 +32,26 @@ docker-compose -v
 
 ```bash
 # 安装yum-utils
-
 yum install -y yum-utils
 
 # 配置yum源
-
 yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 
 # 安装docker-ce
-
 yum install -y docker-ce
 
 # 设置开机启动服务
-
 systemctl enable docker
 
 # 启动服务
-
 systemctl start docker
 
 # 2.安装docker-compose
 
 # 安装epel源
-
 yum install -y epel-release
 
 # 安装docker-compose，如果没有python3会安装python3
-
 yum install -y docker-compose
 ```
 
