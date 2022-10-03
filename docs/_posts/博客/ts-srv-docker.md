@@ -13,9 +13,9 @@ categories:
 
 ## 服务器选择
 
-- 腾讯云/阿里云等轻量云服务器
-- 优先选择学生优惠和香港服务器
-- 系统镜像优先选择 CentOS+Docker 已经配置好的镜像
+- `腾讯云` / `阿里云` 等轻量云服务器
+- 优先选择**学生优惠**和**香港服务器**
+- 系统镜像优先选择 `CentOS+Docker` 已经配置好的镜像
 
 ## 环境配置
 
@@ -45,8 +45,6 @@ systemctl enable docker
 
 # 启动服务
 systemctl start docker
-
-# 2.安装docker-compose
 
 # 安装epel源
 yum install -y epel-release
