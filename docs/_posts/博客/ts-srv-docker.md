@@ -120,6 +120,30 @@ nano docker-compose.yml
 # [保存] nano: ctrl+x
 ```
 
+## 启动服务
+
+确认当前在 `docker-compose.yml` 所在的目录，如 `cd /data/ts`：
+
+```bash
+# 启动服务
+docker-compose up
+
+# 启动服务 一直运行 detach
+docker-compose up -d
+
+# 关闭服务
+docker-compose down
+
+# 重启服务
+docker-compose restart
+```
+
+用TS客户端连接服务器，会弹出对话框要求输入token，输入token后这个账号就是管理员了
+
+- 第一次启动时会弹出 `Server Query 管理员账号密码` 和 `token`，**务必妥善保存**
+
+- 第一次如果用 `docker-compose up -d` 启动，相关日志会保存在 `./data/logs` 下
+
 ## 开放规则
 
 云服务器的防火墙设置页添加如下入站规则：
