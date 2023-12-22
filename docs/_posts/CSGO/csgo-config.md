@@ -12,6 +12,9 @@ permalink: /pages/b5766c/
 sidebar: auto
 categories: 
   - CSGO
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 这篇文章会详细的介绍所有与CFG和启动项相关的知识，希望可以加深各位对CSGO设置的理解。
 <!--more-->

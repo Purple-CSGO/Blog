@@ -11,6 +11,9 @@ permalink: /pages/936d2e/
 sidebar: auto
 categories: 
   - 随笔
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 >初学Markdown，简单总结一下语法和编辑器的选择。
 <!--more-->

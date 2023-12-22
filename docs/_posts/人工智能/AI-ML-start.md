@@ -14,6 +14,9 @@ permalink: /pages/a3d9f5/
 sidebar: auto
 categories: 
   - 人工智能
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 # 前言
 

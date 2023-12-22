@@ -12,6 +12,9 @@ permalink: /pages/faee3f/
 sidebar: auto
 categories: 
   - CSGO
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 一般为了做变速或使用帧混合/重采样得到运动模糊效果，会录制高帧率素材
 

@@ -1,75 +1,11 @@
 
-//样式优化 by Purp1e
-.page {
-  margin 0 0.9rem;
-}
-
-.sidebar-button {
-  margin-left 0.8rem !important;
-}
-
-.post {
-  padding 0.8rem 1.6rem 1.2rem !important;
-}
-
-@media (max-width: 719px) {
-  .page {
-    margin 1rem 0.9rem;
-  }
-
-  .sidebar-button {
-    margin-left 0 !important;
-  }
-
-  .post {
-    margin 0 0.9rem;
-  }
-
-  .pagination {
-    margin 0 0.9rem;
-  }
-
-  .main-right{
-    margin 0 0.9rem;
-  }
-}
-
-.theme-vdoing-wrapper {
-  border-radius 6px !important;
-}
-
-.post {
-  border-radius 6px !important;
-}
-
-#vuepress-plugin-comment {
-  border-radius 6px !important;
-}
-
-.categories-wrapper {
-  border-radius 6px !important;
-}
-
-.tags-wrapper {
-  border-radius 6px !important;
-}
-
-@media screen and (min-width:720px) and (max-width:958px) {
-  .sidebar-button {
-    margin-left 1.54rem !important;
-  }
-}
-
-//解决归档页面的颜色问题
-.year
-  background-color: rgba(0,0,0,0)!important
-
 // 评论区颜色重置
 .gt-container
   .gt-ico-tip
     &::after
-      content: '。( Win + . ) or ( ⌃ + ⌘ + ␣ ) open Emoji'
+      content: '。( Win + . ) 或 ( ⌃ + ⌘ + ␣ ) 打开表情'
       color: #999
+      font-size: .8rem
   .gt-meta
     border-color var(--borderColor)!important
   .gt-comments-null
@@ -100,7 +36,7 @@
 .qq
   position: relative;
 .qq::after
-  content: "请勿骚扰";
+  content: "可撩";
   background: $accentColor;
   color:#fff;
   padding: 0 5px;
@@ -108,7 +44,7 @@
   font-size:12px;
   position: absolute;
   top: -4px;
-  right: -65px;
+  right: -35px;
   transform:scale(0.85);
 
 // demo模块图标颜色
@@ -121,3 +57,79 @@ body .vuepress-plugin-demo-block__wrapper
       border-bottom-color: $accentColor !important;
     svg
       fill: $accentColor !important;
+
+// 全文搜索框
+.suggestions
+  overflow: auto
+  max-height: calc(100vh - 6rem)
+  @media (max-width: 719px) {
+    width: 90vw;
+    min-width: 90vw!important;
+    margin-right: -20px;
+  }
+  .highlight
+    color: $accentColor
+    font-weight: bold
+
+// 从旧版本迁移
+
+//***vdoing主题-变量***//
+
+// // 颜色
+
+$bannerTextColor = #142a2a // 首页banner区(博客标题)文本颜色
+// $accentColor = #11A8CD
+// $arrowBgColor = #ccc
+// $badgeTipColor = #42b983
+// $badgeWarningColor = darken(#ffe564, 35%)
+// $badgeErrorColor = #DA5961
+
+// // 布局
+// $navbarHeight = 3.6rem
+// $sidebarWidth = 18rem
+// $contentWidth = 860px
+// $homePageWidth = 1100px
+// $rightMenuWidth = 230px // 右侧菜单
+
+// // 代码块
+// $lineNumbersWrapperWidth = 2.5rem
+
+ //// 修改主题颜色-透明度-字体颜色
+ // 浅色模式
+ .theme-mode-light
+   --badyBg: #f4f4f4
+   --mainBg: rgba(255,255,255,.93)
+   --sidebarBg: rgba(255,255,255,.3)
+   --blurBg: rgba(255,255,255,.9)
+   --textColor: #10151c
+   --textLightenColor: #0085AD
+   --borderColor: rgba(0,0,0,.15)
+   --codeBg: rgba(236,236,236,.4)
+   --codeColor: #525252
+   codeThemeLight()
+
+ // 深色模式
+ .theme-mode-dark
+   --badyBg: rgb(39,39,43)
+   --mainBg: rgba(30,30,34,.93)
+   --sidebarBg: rgba(30,30,34,.3)
+   --blurBg: rgba(30,30,34,.8)
+   --textColor: #d1d3d5
+   --textLightenColor: #0085AD
+   --borderColor: #2C2C3A
+   --codeBg: rgba(37,37,38,.4)
+   --codeColor: #fff
+   codeThemeDark()
+
+ // 阅读模式
+ .theme-mode-read
+   --badyBg: rgb(240,240,208)
+   --mainBg: rgba(245,245,213,.85)
+   --sidebarBg: rgba(245,245,213,.8)
+   --blurBg: rgba(245,245,213,.95)
+   --textColor: #2c3e50
+   --textLightenColor: #0085AD
+   --borderColor: rgba(0,0,0,.15)
+   --codeBg: rgba(40,44,52,0.9)
+   --codeColor: #fff
+   codeThemeDark()

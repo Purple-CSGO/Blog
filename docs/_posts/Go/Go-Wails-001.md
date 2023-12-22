@@ -12,6 +12,9 @@ permalink: /pages/ac8a61/
 sidebar: auto
 categories: 
   - Go
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 # 前言
 

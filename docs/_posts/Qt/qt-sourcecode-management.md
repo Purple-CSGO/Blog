@@ -12,6 +12,9 @@ permalink: /pages/21c1ea/
 sidebar: auto
 categories: 
   - Qt
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > Qt Creator中包含了Git相关工具，为了更好地管理即将编写的项目的源代码，笔者决定配置好Git相关设置，过程中踩了一些坑，比如`git push`时出现`Everything up-to-date`、`error: src refspec master does not match any`问题，`Git GUI Here`右键选项消失的问题。下面会详细说明所有的步骤，参考的文章有：[文章一](https://blog.csdn.net/qq21497936/article/details/80174554) [文章二](https://blog.csdn.net/yanguo110/article/details/80731774) [文章三](https://blog.csdn.net/xl_lx/article/details/80676208) [Git右键菜单](https://blog.csdn.net/weixin_39251617/article/details/79055820)
 

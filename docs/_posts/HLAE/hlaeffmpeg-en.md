@@ -14,6 +14,9 @@ permalink: /pages/620156/
 sidebar: auto
 categories: 
   - HLAE
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 2019/5/23 HLAE update supports FFMPEG, the official instructions are not very detailed, here will explain in detail how to install FFMPEG and recorded video for HLAE, especially when recording high frame material can save a lot of space.
 

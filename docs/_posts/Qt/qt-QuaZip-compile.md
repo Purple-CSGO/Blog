@@ -11,6 +11,9 @@ permalink: /pages/d08f03/
 sidebar: auto
 categories: 
   - Qt
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 在使用Qt 5.14.0 + VS2017环境下使用QuaZip时主要参考了这篇文章[https://www.cnblogs.com/qiyawei/p/10695192.html](https://www.cnblogs.com/qiyawei/p/10695192.html)，但还是有一些细节需要补充，同时分享出在此环境下编译出的lib和dll，这样就不用手动编译了（其他环境不保证可以）。
 

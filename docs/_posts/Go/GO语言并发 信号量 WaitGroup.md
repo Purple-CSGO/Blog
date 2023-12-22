@@ -3,10 +3,13 @@ title: GO语言并发 信号量 WaitGroup
 date: 2021-04-19 14:29:49
 permalink: /pages/e54c65/
 sidebar: auto
-categories:
+categories: 
   - 随笔
-tags:
-  - 
+tags: 
+  - null
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 ## WaitGroup使用
 

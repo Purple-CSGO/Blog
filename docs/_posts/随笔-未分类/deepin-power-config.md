@@ -12,6 +12,9 @@ permalink: /pages/65b846/
 sidebar: auto
 categories: 
   - 随笔
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 默认情况下使用deepin系统时cpu会以较高主频运行，一般不进行游戏的情况下设置成省电模式更加节能，也能降低散热的压力。deepin没有自带电源管理的按钮/小工具，所以需要动手设置一下。
 

@@ -11,6 +11,9 @@ permalink: /pages/1a09c8/
 sidebar: auto
 categories: 
   - CSGO
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 这篇文章我会详细的介绍CSGO控制台、指令系统、设置方面的知识，有点晦涩，希望各位能在阅读的过程中时不时昏睡过去( ͡° ͜ʖ ͡°)。
 <!--more-->

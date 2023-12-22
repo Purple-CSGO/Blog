@@ -11,6 +11,9 @@ permalink: /pages/eeb7bc/
 sidebar: auto
 categories: 
   - Qt
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 # 头文件包含
 

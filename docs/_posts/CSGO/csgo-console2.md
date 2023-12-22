@@ -11,6 +11,9 @@ permalink: /pages/e7afd3/
 sidebar: auto
 categories: 
   - CSGO
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 上次的文章讲解了控制台的用法和基础的常用指令，这次介绍几个进阶的指令及用法，希望能够有效提升诸位的睡眠质量( ͡° ͜ʖ ͡°)。
 

@@ -3,10 +3,13 @@ title: AMD主板设置解决间歇性爆音
 date: 2021-04-19 14:29:49
 permalink: /pages/07c2da/
 sidebar: auto
-categories:
+categories: 
   - 随笔
-tags:
-  - 
+tags: 
+  - null
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 > 引用评论 from https://www.chiphell.com/forum.php?mod=viewthread&tid=2278263&mobile=no
 

@@ -3,10 +3,13 @@ title: transform scale safari浏览器模糊
 date: 2021-04-19 14:29:49
 permalink: /pages/115b86/
 sidebar: auto
-categories:
+categories: 
   - 随笔
-tags:
-  - 
+tags: 
+  - null
+author: 
+  name: Purp1e
+  link: https://github.com/Purple-CSGO
 ---
 后面加上 `translateZ(0)`
 ```css
