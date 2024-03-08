@@ -138,7 +138,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     footer: {
       createYear: 2021, // 博客创建年份
       copyrightInfo:
-        'Purp1e <br /><a href="https://beian.mps.gov.cn/#/query/webSearch?code=34012302001231" rel="noreferrer" target="_blank">皖公网安备34012302001231</a>', // 博客版权信息，支持a标签
+        'Purp1e <br /><a href="https://beian.mps.gov.cn/#/query/webSearch?code=34012302001231" rel="noreferrer" target="_blank">皖公网安备34012302001231</a> | <a href="http://beian.miit.gov.cn/" rel="noreferrer" target="_blank">皖ICP备20002252号-3</a>', // 博客版权信息，支持a标签
     },
 
     // 扩展自动生成frontmatter。（当md文件的frontmatter不存在相应的字段时将自动添加。不会覆盖已有的数据。）
